@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "EmploybrandAmbassador\\": "app/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "7.3",
+    "htmlburger/carbon-fields": "^3.3",
+    "ext-json": "*"
+  }
+}
