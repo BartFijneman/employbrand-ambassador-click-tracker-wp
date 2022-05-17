@@ -4,8 +4,8 @@
  * Plugin URI: https://employbrand.nl
  * Description: Employbrand Ambassador Wordpress plugin for Click Tracking.
  * Version: 1.0.1
- * Author: Webbedrijf.nl B.V.
- * Author URI: https://webbedrijf.nl
+ * Author: Employbrand B.V.
+ * Author URI: https://employbrand.nl
  * License: GPL2
  */
 
